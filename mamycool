@@ -1,0 +1,3 @@
+git fetch origin
+git checkout -b mamycool-patch-1 origin/mamycool-patch-1
+git merge my-slide
